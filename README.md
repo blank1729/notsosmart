@@ -1,0 +1,2 @@
+# notsosmart
+notsosmart blog
